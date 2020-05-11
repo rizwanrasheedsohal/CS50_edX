@@ -1,0 +1,18 @@
+#top {
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+#middle {
+    background-color: lightskyblue;
+    font-size: medium;
+}
+
+#bottom {
+    background-color: navajowhite;
+}
+
+.name {
+    font-weight: bolder;
+}
